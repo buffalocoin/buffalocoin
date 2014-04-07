@@ -1,4 +1,3 @@
-
 <p align="center"><img src="http://buffalocoin.info/style/images/buffalologo.png" /></p>
 
 buffalocoin: An open source, peer-to-peer Internet currency.
@@ -34,10 +33,10 @@ Links
 
 Website: http://www.buffalocoin.info
 
+ 
+Forum: http://forum.buffalocoin.info  (soon)
 
-Forum: http://forum.buffalocoin.info
 
-
-Source: https://git.buffalocoin.info
+Source: http://git.buffalocoin.info
 
 
