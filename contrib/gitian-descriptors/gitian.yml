@@ -20,7 +20,7 @@ packages:
 - "libpng12-dev"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/buffalocoin-project/buffalocoin.git"
+- "url": "https://github.com/buffalocoin/buffalocoin.git"
   "dir": "buffalocoin"
 files:
 - "miniupnpc-1.6.tar.gz"
